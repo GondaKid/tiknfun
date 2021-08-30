@@ -23,6 +23,5 @@ Things you may want to cover:
 
 * ...
 
-abc
-+test line
+abc\n+test line
 test line 2
